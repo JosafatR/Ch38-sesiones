@@ -1,0 +1,14 @@
+/* Hoja de estilo personalizada */
+/* CSS: Cascading style sheet (Hoja de estilos en cascada) */
+
+/* Selector de etiqueta */
+body {
+    background-color: cornflowerblue;
+    color: #9F4200;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+main{
+    text-align: center;
+}
